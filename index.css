@@ -9,3 +9,24 @@ body {
     background: #1f2937;
     color: white;
 }
+
+.intro {
+    font-size: 48px extra-bold;
+    color: #f9faf8;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}

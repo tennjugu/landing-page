@@ -46,3 +46,10 @@ header {
     flex-direction: column;
 }
 
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 44px;
+}
+

@@ -53,3 +53,11 @@ header {
     padding: 0px 44px;
 }
 
+.right-links {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}

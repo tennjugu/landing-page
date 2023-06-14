@@ -1,3 +1,11 @@
 body {
     display: flex;
 }
+
+.header,
+.footer,
+.right-links,
+.intro {
+    background: #1f2937;
+    color: white;
+}

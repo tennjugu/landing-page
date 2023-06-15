@@ -153,3 +153,11 @@ button {
     padding-bottom: 30px;
 }
 
+.button2 {
+    align-self: center;
+    border: 2px solid  white;
+    border-radius: 10%;
+    padding: 6px 20px;
+    cursor: pointer;
+}
+

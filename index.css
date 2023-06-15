@@ -121,3 +121,13 @@ button {
     text-align: center;
 }
 
+.customer {
+    background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0px;
+    padding: 100px 120px;
+}
+

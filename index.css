@@ -1,5 +1,7 @@
 body {
     display: flex;
+    font-family: 'Roboto';
+    flex-direction: column;
 }
 
 .header,
@@ -48,16 +50,12 @@ header {
 
 .header {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 0px 44px;
+    align-items:center;
+    padding-left: 200px;
+    gap: 630px;
 }
 
 .right-links {
     display: flex;
 }
 
-.footer {
-    display: flex;
-    justify-content: center;
-}

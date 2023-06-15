@@ -94,3 +94,15 @@ button {
     padding-top: 30px;
     padding-bottom: 30px;
 }
+
+
+.latest .phones img {
+    width: 200px;
+    height: auto;
+}
+
+.latest {
+    text-align: center;
+    padding-top: 30px;
+}
+

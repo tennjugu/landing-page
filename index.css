@@ -106,3 +106,14 @@ button {
     padding-top: 30px;
 }
 
+.phones {
+    display: flex;
+    gap: 52px;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.phone {
+    max-width: 250px;
+}
+

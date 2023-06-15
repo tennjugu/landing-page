@@ -165,3 +165,11 @@ a strong {
     color: #1f2937;
 }
 
+.footer {
+    height: 42px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}

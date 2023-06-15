@@ -161,3 +161,7 @@ button {
     cursor: pointer;
 }
 
+a strong {
+    color: #1f2937;
+}
+

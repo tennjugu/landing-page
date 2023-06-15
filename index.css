@@ -69,4 +69,13 @@ button {
     padding: 6px 20px;
   }
 
-  
+.intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-baseline;
+    padding-right: 50px;
+    padding-left: 170px;
+    padding-bottom: 50px;
+}
+

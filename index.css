@@ -1,0 +1,175 @@
+body {
+    display: flex;
+    font-family: 'Roboto';
+    flex-direction: column;
+}
+
+.header,
+.footer,
+.right-links,
+.intro {
+    background: #1f2937;
+    color: white;
+}
+
+.intro {
+    font-size: 48px extra-bold;
+    color: #f9faf8;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+li {
+    list-style-type: none;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+header {
+    color: #f9faf8;;
+    font-size: 24px;
+}
+
+.intro h1 {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    align-items:center;
+    padding-left: 200px;
+    gap: 630px;
+}
+
+.right-links {
+    display: flex;
+}
+
+
+button {
+    background: #3882f6;
+    color: #e5e7eb;
+    border: 1px solid  #3882f6;
+    cursor: pointer;
+    border-radius: 10%;
+    padding: 6px 20px;
+  }
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-baseline;
+    padding-right: 50px;
+    padding-left: 170px;
+    padding-bottom: 50px;
+}
+
+.welcome {
+    flex: 1;
+    width: 300px;
+    height: 100px;
+    padding: 30px;
+}
+
+.image {
+    flex: 1;
+    width: auto;
+    height: auto;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.latest .phones img {
+    width: 200px;
+    height: auto;
+}
+
+.latest {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.phones {
+    display: flex;
+    gap: 52px;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.phone {
+    max-width: 250px;
+}
+
+.text {
+    text-align: center;
+}
+
+.customer {
+    background: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 0px;
+    padding: 100px 120px;
+}
+
+.review {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+}
+
+.Name {
+    margin-left: auto;
+    font-weight: bold;
+}
+
+.newsletter {
+    display: flex;
+    background: #3882f6;
+    color: #e5e7eb;
+    justify-content:space-evenly;
+    align-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.button2 {
+    align-self: center;
+    border: 2px solid  white;
+    border-radius: 10%;
+    padding: 6px 20px;
+    cursor: pointer;
+}
+
+a strong {
+    color: #1f2937;
+}
+
+.footer {
+    height: 42px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
